@@ -1,0 +1,8 @@
+{
+    "flask_url": "http://192.168.5.25:9000",
+    "flask_base_path": "/tes.library/images",
+    "directory_path": "C:\\Users\\xiuyu\\Desktop\\tes.library\\images",
+    "db_path": "./metadata.db",
+    "static_folder": "C:\\Users\\xiuyu\\Desktop\\tes.library",
+    "library_name": "tes.library"
+}
